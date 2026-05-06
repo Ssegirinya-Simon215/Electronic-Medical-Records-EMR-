@@ -144,7 +144,7 @@ This project draws insights from **OpenMRS** (Open Medical Record System), deplo
 
 ---
 
-## 👤 Author
+## 👤 Author*** Ssegirinya Simon (2025/BCS/215/PS)
 
 **Course:** Database Management Systems  
 **System:** Electronic Medical Records — Hospital Setting  
