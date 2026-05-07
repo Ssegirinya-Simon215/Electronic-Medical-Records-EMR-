@@ -33,7 +33,7 @@ This project presents the **design and full MySQL implementation** of an Electro
 | `emr_sample_queries.sql` | 10 sample SQL queries with comments |
 | `README.md` | This file |
 
-> 📹 **Presentation Video:** [Link to be added after upload]
+> 📹 **Presentation Video:** [https://youtu.be/-yb8Y3LZn8I]
 
 ---
 
